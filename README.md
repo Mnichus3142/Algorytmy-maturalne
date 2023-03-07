@@ -1,5 +1,5 @@
 # Algorytmy-maturalne
-- ❌reprezentacja liczb w dowolnym systemie pozycyjnym, w tym w dwójkowym i szesnastkowym,
+- ✔reprezentacja liczb w dowolnym systemie pozycyjnym, w tym w dwójkowym i szesnastkowym,
 - ❌sprawdzanie, czy liczba jest liczbą pierwszą,
 - ❌sprawdzanie, czy liczba jest liczbą doskonałą
 - ❌rozkładanie liczby na czynniki pierwsze,
